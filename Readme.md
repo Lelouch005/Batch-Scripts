@@ -9,4 +9,6 @@ Update and Maintenance: This script may require updates to function correctly ov
 Security Risks: Be aware that scripts can pose security risks. Avoid running scripts from untrusted sources and inspect the code for any malicious content.
 System Compatibility: Verify that your system meets the requirements and dependencies needed for the script to function properly.
 Use at Your Own Risk: The author(s) of this script are not responsible for any damage or loss that may result from its use. Use this script at your own risk.
-By proceeding with the use of this script, you acknowledge and accept these conditions.
+
+
+# By proceeding with the use of this script, you acknowledge and accept these conditions.
