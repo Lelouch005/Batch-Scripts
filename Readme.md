@@ -2,7 +2,7 @@
 
 ## This script is provided as-is, without any guarantees or warranties. By using this script, you agree to the following terms and conditions:
 
-Back Up Your Data: Before running this script, ensure that all important data is backed up. The script may modify, delete, or corrupt your data.
+ - **Back Up Your Data:** Before running this script, ensure that all important data is backed up. The script may modify, delete, or corrupt your data.
 Review the Code: Carefully review the script code before executing it. Make sure you understand its functionality and potential impact on your system or data.
 Test in a Safe Environment: Run the script in a controlled, non-production environment first to observe its behavior and verify its output.
 Update and Maintenance: This script may require updates to function correctly over time. Ensure you have the latest version and check for updates periodically.
